@@ -1,0 +1,5 @@
+SteamGamePicker.py - Simple script for choosing a game to play.
+
+Randomly picks a game from a Steam account's library, given a Steam account's
+steamid. Uses Steam Web API provided by Valve. Requires valid Steam Web API
+key.
